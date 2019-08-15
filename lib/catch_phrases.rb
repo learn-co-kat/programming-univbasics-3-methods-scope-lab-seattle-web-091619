@@ -12,3 +12,7 @@ def link
   beep = "It's Dangerous To Go Alone! Take This."
   puts beep
 end 
+
+def any_phrase 
+  
+end 
